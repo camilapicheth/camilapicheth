@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=appveyor&logoColor=white)](https://www.instagram.com/camilapicheth) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=appveyor&logoColor=white)](https://www.linkedin.com/in/camila-picheth) [![](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=appveyor&logoColor=white)](https://www.medium.com/@camilapicheth)
 
 <p align="center">
-  <img src="https://www.linkedin.com/in/camila-picheth/overlay/background-image/">
+  <img src="cover github.png">
 </p>
 
 # Camila Picheth
