@@ -1,34 +1,26 @@
-[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=appveyor&logoColor=white)](https://www.instagram.com/camilapicheth) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=appveyor&logoColor=white)](https://www.linkedin.com/in/camila-picheth) [![](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=appveyor&logoColor=white)](https://www.medium.com/@camilapicheth)
 
-<p align="center">
-  <img src="cover github.png">
-</p>
+# Hello World! 👋 I'm Camila
 
-# Camila Picheth
-<sub>Copywriter na WHF Design Company</sub>
+I've been cruising through the digital media and online writing scene for 16 years. Recently, I decided to shake things up and dive into **programming** and **data analytics**. Fueled by a love for all things sci-fi, I stumbled into the tech world and found my spot.
 
- Trabalho na área da escrita, em modelo copywriting, storytelling ou redação jornalística.
- ... e agora começando também em outro formato: da programação e ciência de dados.
- 
- Afinal, esses formatos estão todos conectados.
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI1cnhpeHhwcDNnbGx0ZzJmZTJsMTZiMnpjYm5xMTB5djZ1OHZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Yv1I2865YEz0RbrgJ/giphy.gif)
 
-**"No matter what anybody tells you, words and ideas can change the world."** -John Keating
+🤖 I’m all in on the positive power of Artificial Intelligence to shake up the way we work, communicate, and connect.
 
-**Atualmente estudando:**
+## Skills (in the making)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Meus Hobbies**
+## Favorite TV Shows
+- Battlestar Galactica
+- Doctor Who
+- Stranger Things
+- Star Trek(s)
 
-- Séries e filmes
-- Ler
-- Aprender coisas novas
-- Correr
-
-**Contatos:**
-* [Instagram](https://www.instagram.com/camilapicheth)
-* [LinkedIn](https://www.linkedin.com/in/camila-picheth)
-* [Medium](https://www.medium.com/@camilapicheth)
-* E-mail: cpicheth@gmail.com
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-picheth) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camilapicheth)
