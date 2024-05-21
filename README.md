@@ -1,7 +1,7 @@
 
 # Hello World! 👋 I'm Camila
 
-I've been cruising through the digital media and online writing scene for 16 years. Recently, I decided to shake things up and dive into **programming** and **data analytics**. Fueled by a love for all things sci-fi, I stumbled into the tech world and found my spot.
+I've been cruising through the digital media and online writing scene for 16 years. Recently, I decided to shake things up and dive into **blockchain programming**. Fueled by a love for all things sci-fi, I stumbled into the tech world and found my spot.
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI1cnhpeHhwcDNnbGx0ZzJmZTJsMTZiMnpjYm5xMTB5djZ1OHZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Yv1I2865YEz0RbrgJ/giphy.gif)
 
